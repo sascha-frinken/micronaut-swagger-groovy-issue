@@ -1,5 +1,5 @@
 profile: service
-defaultPackage: swagger.java
+defaultPackage: swagger.groovy
 ---
-testFramework: junit
-sourceLanguage: java
+testFramework: spock
+sourceLanguage: groovy
